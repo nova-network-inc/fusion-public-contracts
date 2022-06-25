@@ -7,15 +7,37 @@ Below a list of the production addresses of the contracts present in this reposi
 
 ### Nova Network
 
-Factory: 0x9550b0c83AD5a58898cD4267987Af67e7E52bF55
-Router: 0xB2a89c56538f56999332d7E046b82B6ad43AAC81
-Multicall: 0x7A5a7579eb8DdEd352848cFDD0a5530C4e56FF7f
+Factory
+```shell
+0x9550b0c83AD5a58898cD4267987Af67e7E52bF55
+```
+
+Router
+```shell
+0xB2a89c56538f56999332d7E046b82B6ad43AAC81
+```
+
+Multicall
+```shell
+0x7A5a7579eb8DdEd352848cFDD0a5530C4e56FF7f
+```
 
 ## Nebula Testnet
 
-Factory: 0x9550b0c83AD5a58898cD4267987Af67e7E52bF55
-Router: 0xB2a89c56538f56999332d7E046b82B6ad43AAC81
-Multicall: 0x7A5a7579eb8DdEd352848cFDD0a5530C4e56FF7f
+Factory
+```shell
+0x9550b0c83AD5a58898cD4267987Af67e7E52bF55
+```
+
+Router
+```shell
+0xB2a89c56538f56999332d7E046b82B6ad43AAC81
+```
+
+Multicall
+```shell
+0x7A5a7579eb8DdEd352848cFDD0a5530C4e56FF7f
+```
 
 ## Usage and Licence Advice
 All the contracts in this repository are open-source, under the standard MIT Licence, with the additional terms below:
